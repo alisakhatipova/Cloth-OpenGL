@@ -1,5 +1,2 @@
-﻿Хатипова Алиса, 321 группа
-
-Операционная система: Windows 7 x64
-Оборудование: Intel Core i3-4030U CPU@ 1.90GHz 1.90GHz, 4 ГБ памяти, видеокарта NVidia GeForce GT 730M
-Управление: 1 - каркасный режим, 2 - визуализация нормалей, 3 - текстурированная поверхность, p - добавить возмущение, w - приблизить, s - отдалить
+Simulation and visualization of fluctuating cloth in OpenGL. Method of finite elements was used, object texturization made.
+control: 1 - carcass mode, 2 - normal visualization, 3 - texturized surface, p - add indignation, w - bring closer, s - zoom out
